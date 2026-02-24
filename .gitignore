@@ -4,6 +4,7 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+*.zip
 
 # Local heavy assets (must live under /home)
 data/
