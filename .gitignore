@@ -12,6 +12,7 @@ checkpoints/
 videos/
 outputs/
 cache/
+dataset/
 
 # Logs
 *.log
